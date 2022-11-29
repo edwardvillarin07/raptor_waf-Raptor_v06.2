@@ -1,0 +1,6 @@
+select|insert|update|delete|drop|union
+version.*\@
+[0-9]=[0-9].*
+eval\(
+alert\(
+\<script.*script\>
